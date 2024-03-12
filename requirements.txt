@@ -1,0 +1,14 @@
+pyarabic==0.6.15
+gensim==4.2.0
+arabic_reshaper==3.0.0
+python-bidi==0.4.2
+accelerate==0.25.0
+stanza==1.6.1
+umap-learn==0.5.5
+contextualized_topic_models==2.5.0
+ruqia==0.0.17
+Arabic-Stopwords==0.3
+python-Levenshtein==0.23.0
+pandas
+nltk
+plotly

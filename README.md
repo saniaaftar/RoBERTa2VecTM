@@ -37,7 +37,7 @@ If use this code, please cite:
 ---
 
 ### Input data
-The input dataset can be downoaded from [Kaggle](https://www.kaggle.com/datasets/fahd09/hadith-dataset).
+The input dataset has be downloaded from [Kaggle](https://www.kaggle.com/datasets/fahd09/hadith-dataset).
 
 
 ### Contacts
