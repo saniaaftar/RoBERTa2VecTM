@@ -1,5 +1,5 @@
 # RoBERTa2VecTM
-_A novel methodology for topic identification in Hadith (more in general, in Arabic documents)
+_A novel methodology for topic identification in Hadith (more in general, in Arabic documents)_
 
 ---
 
